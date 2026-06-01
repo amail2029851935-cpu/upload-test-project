@@ -1,10 +1,9 @@
-# Upload Test Project
+# 上传测试项目
 
-This is a small test repository for practicing GitHub uploads.
+这是一个用于练习 GitHub 项目上传流程的小型测试仓库。
 
-## What to Try
+## 可以练习什么
 
-- Create a file locally.
-- Commit the change with Git.
-- Push it to GitHub.
-
+- 在本地创建或修改文件。
+- 使用 Git 提交更改。
+- 将本地项目推送到 GitHub。
